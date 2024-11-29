@@ -1,5 +1,5 @@
 # Sup, I'm Alex
-**A developer from the Netherlands.**  
+**<em>A developer from the Netherlands.</em>**  
 
 - 🌟 **Owner of [Lucerny](https://lucerny.nl)**: A growing platform for [insert purpose if you'd like, e.g., innovative solutions, web development, etc.].  
 - 📚 **Currently Learning**: Diving deep into **Java** and **Next.js** to expand my full-stack development skills.  
