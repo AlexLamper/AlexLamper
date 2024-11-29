@@ -3,7 +3,7 @@
 **<em>A developer from the Netherlands.</em>**  
 
 - 📚 **Currently Learning**: Diving deep into **Java** and **Next.js** to expand my full-stack development skills.    
-- 🏗️ **Projects in Progress**: Working on [GeoName, BibleMap, jvnathanael and more...].  
+- 🏗️ **Projects in Progress**: Just look at my GitHub repo's haha 
 - 📬 **Connect With Me**: Feel free to reach out at devlamper06@gmail.com  
 
 ---
