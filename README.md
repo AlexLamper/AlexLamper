@@ -8,5 +8,5 @@
 </div>
 
 <div align="center">
-  <img height="200" src="file:///C:/Users/alexl/OneDrive%20-%20HZ%20University%20of%20Applied%20Sciences/Desktop/DSC_5086.JPG"  />
+  <img height="200" src="https://github.com/AlexLamper/AlexLamper/blob/main/img1.jpg"  />
 </div>
