@@ -44,12 +44,6 @@
 
 ---
 
-## 🏆 Achievements  
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlexLamper" alt="Trophies" /></a>
-
----
-
 ## 🌐 Where to Find Me  
 
 <a href="https://dev.to/alexlamper"><img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
