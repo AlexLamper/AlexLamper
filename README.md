@@ -7,4 +7,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexLamper&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-([http://url/to/img.png](https://ibb.co/2kHMZSm))
+!(./img1.jpg)
