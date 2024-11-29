@@ -6,3 +6,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexLamper&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+<div align="center">
+  <img height="200" src="file:///C:/Users/alexl/OneDrive%20-%20HZ%20University%20of%20Applied%20Sciences/Desktop/DSC_5086.JPG"  />
+</div>
