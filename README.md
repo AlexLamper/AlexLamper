@@ -3,7 +3,7 @@
 
 - 📚 **Currently Learning**: Diving deep into **Java** and **Next.js** to expand my full-stack development skills.    
 - 🏗️ **Projects in Progress**: Working on [GeoName, BibleMap, jvnathanael and more...].  
-- 📬 **Connect With Me**: Feel free to reach out at devlamper06@gmail.com 
+- 📬 **Connect With Me**: Feel free to reach out at devlamper06@gmail.com  
 
 ---
 
