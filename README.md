@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Alex Lamper  
+# Sup, I'm Alex
 **A passionate developer from the Netherlands.**  
 
 - 🌟 **Owner of [Lucerny](https://lucerny.nl)**: A growing platform for [insert purpose if you'd like, e.g., innovative solutions, web development, etc.].  
