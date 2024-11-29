@@ -5,8 +5,8 @@
 - 📚 **Currently Learning**: Diving deep into **Java** and **Next.js** to expand my full-stack development skills.  
 - 💡 **Passionate About**: Building sleek, efficient, and user-focused web applications that solve real-world problems.  
 - 🎯 **Mission**: To create impactful digital experiences and continuously grow as a developer.  
-- 🏗️ **Projects in Progress**: Working on [list a current project if applicable, e.g., a gamified Bible learning app, interactive tools for developers, etc.].  
-- 📬 **Connect With Me**: Feel free to reach out at [devlamper06@gmail.com].  
+- 🏗️ **Projects in Progress**: Working on [GeoName, BibleMap, jvnathanael and more...].  
+- 📬 **Connect With Me**: Feel free to reach out at devlamper06@gmail.com 
 
 ---
 
