@@ -23,24 +23,7 @@
 
 ## 🚀 Languages and Tools  
 
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" /></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="42" height="42" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="42" height="42" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" /></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="42" height="42" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42" /></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="42" height="42" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42" /></a>
-<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="42" height="42" /></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="42" height="42" /></a>
-<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="42" height="42" /></a>
+![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&color=282c34) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=282c34) ![Bootstrap](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&color=282c34) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=282c34) ![Bootstrap](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=Svelte&color=282c34) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&color=282c34) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&color=282c34) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&color=282c34) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&color=282c34) ![Bootstrap](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=Tailwind-CSS&color=282c34) ![Bootstrap](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&color=282c34) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&color=282c34) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&color=282c34) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=282c34) ![Bootstrap](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&color=282c34) ![Bootstrap](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js&color=282c34) ![Bootstrap](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=Bash&color=282c34) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&color=282c34)
 
 ---
 
