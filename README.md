@@ -1,6 +1,4 @@
-
 # Sup, I'm Alex
-
 **<em>A developer from the Netherlands.</em>**  
 
 - 📚 **Currently Learning**: Diving deep into **Java** and **Next.js** to expand my full-stack development skills.    
@@ -27,7 +25,6 @@
 ---
 
 ## 🌐 Where to Find Me  
-
 <a href="https://dev.to/alexlamper"><img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
 <a href="https://www.linkedin.com/in/alexlamper6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.dribbble.com/alexlamper"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
