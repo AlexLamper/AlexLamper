@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi there! 👋 I'm Alex Lamper  
 **A passionate developer from the Netherlands.**  
 
@@ -57,5 +55,3 @@
 <a href="https://www.dribbble.com/alexlamper"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
 <a href="https://www.youtube.com/@AlexLamper"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://stackoverflow.com/users/20912974"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" /></a>
-
-</div>
