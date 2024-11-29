@@ -2,9 +2,7 @@
 **<em>A developer from the Netherlands.</em>**  
 
 - 🌟 **Owner of [Lucerny](https://lucerny.nl)**: A growing platform for [insert purpose if you'd like, e.g., innovative solutions, web development, etc.].  
-- 📚 **Currently Learning**: Diving deep into **Java** and **Next.js** to expand my full-stack development skills.  
-- 💡 **Passionate About**: Building sleek, efficient, and user-focused web applications that solve real-world problems.  
-- 🎯 **Mission**: To create impactful digital experiences and continuously grow as a developer.  
+- 📚 **Currently Learning**: Diving deep into **Java** and **Next.js** to expand my full-stack development skills.    
 - 🏗️ **Projects in Progress**: Working on [GeoName, BibleMap, jvnathanael and more...].  
 - 📬 **Connect With Me**: Feel free to reach out at devlamper06@gmail.com 
 
