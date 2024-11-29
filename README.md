@@ -1,5 +1,6 @@
+
 # Sup, I'm Alex
----
+
 **<em>A developer from the Netherlands.</em>**  
 
 - 📚 **Currently Learning**: Diving deep into **Java** and **Next.js** to expand my full-stack development skills.    
