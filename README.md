@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=500&lines=No%2C+I+can't+fix+your+printer;It+works+on+my+machine;Wait%2C+did+I+write+that%3F;Powered+by+Copilot's+suggestions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=500&lines=It+works+on+my+machine;Wait%2C+did+I+write+that%3F;Powered+by+Copilot's+suggestions" alt="Typing SVG" />
 
 **Fun facts you didn’t ask for:**  
 
