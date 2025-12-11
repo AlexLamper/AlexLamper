@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=500&lines=It+works+on+my+machine;Wait%2C+did+I+write+that%3F;Powered+by+Copilot's+suggestions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=500&lines=It+works+on+my+machine;Wait%2C+did+I+write+that%3F;Powered+by+LLMs" alt="Typing SVG" />
 
 **Fun facts you didn’t ask for:**  
 
@@ -12,8 +12,7 @@
 ### 📈 GitHub Stats  
 
 <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexLamper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="165" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexLamper&radius=12&theme=react&area=true&order=5&width=400" height="165" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexLamper&radius=12&theme=react&area=true&order=5" alt="Activity Graph" />
 </div>
 
 ---
